@@ -1,0 +1,46 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+.orange{
+    color:orange;
+}
+.header{
+    font-weight: 800;
+    font-size: 60px;
+    margin:20px 0px;
+    
+}
+
+.font{
+    font-weight: 500;
+    padding-bottom: 20px;
+    text-align: justify;
+    padding-top: 20px;
+
+
+}
+.button{
+    text-decoration:none;
+    background-image: linear-gradient(tomato,red) ;
+    padding: 10px 15px;
+    color:white;
+    border-radius: 5px;
+    
+    
+}
+.flexing{
+    display: flex;
+}
+.width-half{
+    width: 50%;
+    margin:20px;
+    padding:80px;
+}
+.width-half img{
+    width:70%;
+    padding-left: 20px;
+}
+
+
+
