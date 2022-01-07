@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     font-family: 'Work Sans', sans-serif;
+    margin:0;
 }
 .orange{
     color:orange;
@@ -51,7 +52,7 @@ body{
     font-size: 30px;
 }
 .mission{
-    margin-left:10%;
+    margin-left:7%;
     text-align:justify ;
     width:60%;
     background-color: cyan;
@@ -78,7 +79,7 @@ body{
 
 }
 .goal{
-    margin-right: 10%;
+    margin-right: 7%;
     width:60%;
     background-color: rgb(255, 72, 0);
     border-radius: 30px;
@@ -93,8 +94,8 @@ body{
     padding-top: 160px;
 }
 .down-width img{
-    width:55%;
-    margin-left:32%;
+    width:60%;
+    margin-left:24%;
 }
 .down-font{
     font-size:25px;
@@ -103,16 +104,25 @@ body{
 .width{
     width:50%;
     margin-top: 10%;
-    padding: 25px;
+    padding: 35px;
 }
 .width img{
-    width:55%;
-    margin-right:32%;
+    width:60%;
+    margin-right:22%;
 }
 .width-font{
-    margin-left:30% ;
+    margin-left:25% ;
     font-size: 25px;
 }
-
-
+.footer {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom:40px;
+    background-color: black;
+    margin-top: 100px;
+    color: white;
+}
+span{
+    color:red;
+}
 
