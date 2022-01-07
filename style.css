@@ -104,7 +104,7 @@ body{
 .width{
     width:50%;
     margin-top: 10%;
-    padding: 35px;
+    padding: 60px;
 }
 .width img{
     width:60%;
@@ -113,6 +113,11 @@ body{
 .width-font{
     margin-left:25% ;
     font-size: 25px;
+}
+.contact-font{
+    padding-right: 200px;
+
+
 }
 .footer {
     text-align: center;
@@ -124,5 +129,29 @@ body{
 }
 span{
     color:red;
+}
+.banner-left{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat:no-repeat ;
+    background-size: 250px;
+    background-position: calc(80px);
+}
+.banner-corner{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position:calc(1050px);
+    background-position-y:430px ;
+}
+.banner-bottom{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position-x:80px; ;
+    background-position-y:350px ;
+    
+}
+.border{
+    border:5px solid wheat;
 }
 
